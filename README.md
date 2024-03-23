@@ -7,9 +7,9 @@ Notebook - 1: (Part_A.ipynb)
 * IV.   Popularity Prediction using Regression
 
 Notebook - 2: (Part_B.ipynb)
-IV.   Popularity Prediction using Classification - Oversampling
+* IV.   Popularity Prediction using Classification - Oversampling
 
 Notebook - 3: (Part_C.ipynb)
-IV.   (Continued) Popularity Prediction using Classification - Undersampling
-V.    Result comparison between Regression vs Classification 
-VI.   Conclusion
+* IV.   (Continued) Popularity Prediction using Classification - Undersampling
+* V.    Result comparison between Regression vs Classification 
+* VI.   Conclusion
